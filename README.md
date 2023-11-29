@@ -1,3 +1,7 @@
+## Doki Theme with Cyan in the background
+![Screenshot](./Screenshots/CyanBeeg.png)
+![Screenshot](./Screenshots/CyanSmool.png)
+
 ## Configuring Doki Theme with Cyan Theme
 
 1. **Install the Doki Theme Extension for Visual Studio Code:**
@@ -40,3 +44,8 @@
        ```json
        "doki.sticker.css": "z-index:100;background-position:100% 63%"
        ```
+
+### Special Thanks
+   - [Doki Theme developers](https://github.com/doki-theme/doki-theme-vscode)
+   - [Hacker Neko Waifu Cyan](https://cyan.yt/) 
+   - Sticker made by [@yuyuzu11]()
