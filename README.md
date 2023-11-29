@@ -22,13 +22,13 @@ For more informations I recommend visiting official GitHub repo [Doki Theme](htt
 
 And for more detailed instructions for VS Code, check out the [Doki Theme Documentation](https://marketplace.visualstudio.com/items?itemName=unthrottled.doki-theme#custom-assets).
 
-### 3. Save Theme Images
+### 2. Save Theme Images
 Save the theme images located in the `Images` folder to your preferred directory.
 
-### 4. Set the Doki Theme
+### 3. Set the Doki Theme
 Doki Theme works seamlessly with most custom themes. In the screenshots, I used Doki Theme: NekoPara: Vanilla.
 
-### 5. Open Command Palette
+### 4. Open Command Palette
 Use the shortcut `Ctrl + Shift + P`.
 
 ## Option 1 (UI way):
@@ -50,7 +50,7 @@ Use the shortcut `Ctrl + Shift + P`.
     ```
 7. Change Status bar: Name value to `Cyan Nyan`.
 8. Open Command Palette and run Doki-Theme: Restore Assets.
-9. Finish!
+9. Done!
 
 ## Option 2 (JSON way):
 
@@ -73,11 +73,11 @@ Use the shortcut `Ctrl + Shift + P`.
     ```json
     "doki.sticker.css": "z-index:100;background-position:100% 63%"
     ```
-6. Finish!
+6. Done!
 
 ## Special Thanks
 - [Doki Theme developers](https://github.com/doki-theme/doki-theme-vscode)
 - [Hacker Neko Waifu Cyan](https://cyan.yt/)
 - Sticker made by [@yuyuzu11](https://twitter.com/yuyuzu11)
 - Background made by [?](?)
-- Instructions and image crop by [Mixxy3k](https://github.com/Mixxy3k)
+- Instructions and image crop and opacity changes by [Mixxy3k](https://github.com/Mixxy3k)
