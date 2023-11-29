@@ -51,9 +51,9 @@ Use the shortcut `Ctrl + Shift + P`.
 3. Paste the following at the bottom:
     ```json
     "doki.statusbar.name": "Cyan Nyan",
-    "doki.sticker.path": "your-path/CyanSTCode.png",
-    "doki.wallpaper.path": "your-path/CyanBGCode.png",
-    "doki.background.path": "your-path/CyanBGCode.png",
+    "doki.sticker.path": "your-path//CyanSticker.png",
+    "doki.wallpaper.path": "your-path//CyanBackground.png",
+    "doki.background.path": "your-path//CyanBackground.png",
     "doki.background.anchor": "center"
     ```
 4. Optionally, disable the sticker:
