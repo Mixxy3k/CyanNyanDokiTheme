@@ -1,6 +1,6 @@
 # Doki Theme with Cyan Background
 
-Enhance your Visual Studio Code experience with the vibrant Doki Theme featuring a Cyan backdrop.
+Enhance your Visual Studio Code experience using Doki Theme and Cyan background and sticker!
 
 ![CyanBeeg](./Screenshots/CyanBeeg.png)
 ![CyanSmool](./Screenshots/CyanSmool.png)
