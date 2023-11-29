@@ -16,17 +16,18 @@
 
    - Select: Preferences: Open User Settings.
    - Press Enter.
-   - In the search bar, type "Doki."
+   - In the search bar, type "Doki"
+   - All options are well documented, you can do it!
 
 ### Option 2 (JSON way):
 
    - Select: Preferences: Open User Settings (JSON).
    - Press Enter.
    - Paste the following at the bottom:
-
+   - Remember to change paths to the one you use!
      ```json
      "doki.statusbar.name": "Cyan Nyan",
-     "doki.sticker.path": "STICKER IMAGE",
+     "doki.sticker.path": "D:\\DokiExt\\CyanSTCode.png",
      "doki.wallpaper.path": "D:\\DokiExt\\CyanBGCode.png",
      "doki.background.path": "D:\\DokiExt\\CyanBGCode.png",
      ```
