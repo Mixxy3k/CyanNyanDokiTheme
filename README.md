@@ -10,7 +10,7 @@ Enhance your Visual Studio Code experience with the vibrant Doki Theme featuring
 ### 1. Install the Doki Theme Extension for Visual Studio Code
 - [Doki Theme Extension](https://marketplace.visualstudio.com/items?itemName=unthrottled.doki-theme)
 
-Additional note, Doki Extentions works with more applications, such as
+Additional note, Doki Theme works with more applications, such as
    - JetBrains IDEs
    - Visual Studio 
    - Chrome, Edge, Brave, Firefox
