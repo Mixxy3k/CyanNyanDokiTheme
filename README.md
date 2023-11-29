@@ -20,8 +20,7 @@ Additional note, Doki Theme works with more applications, such as
 This tutorial focus mainly on Visual Studio Code, but nothing stops you from using it everywhere else!
 For more informations I recommend visiting official GitHub repo [Doki Theme](https://github.com/doki-theme)
 
-### 2. Additional Details
-For more detailed instructions, check out the [Doki Theme Documentation](https://marketplace.visualstudio.com/items?itemName=unthrottled.doki-theme#custom-assets).
+And for more detailed instructions for VS Code, check out the [Doki Theme Documentation](https://marketplace.visualstudio.com/items?itemName=unthrottled.doki-theme#custom-assets).
 
 ### 3. Save Theme Images
 Save the theme images located in the `Images` folder to your preferred directory.
